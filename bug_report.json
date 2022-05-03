@@ -1,1 +1,7 @@
-
+{
+   "header" : "name_of_header",
+   "steps_to_reproduce" : "1...; 2...; 3...;",
+   "project" : "project_1",
+   "severity" : "minor",
+   "priority" : "medium"
+}
